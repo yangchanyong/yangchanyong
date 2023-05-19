@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksdydsla93@gmail.com&show_icons=true&theme=radical)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cksdydsla93@gmail.com&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=cksdydsla93@gmail.com&show_icons=true">
 
 <!--
 **yangchanyong/yangchanyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
