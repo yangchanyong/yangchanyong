@@ -1,7 +1,7 @@
 <div align="center">
   <h2>💪Introduction</h2>
   <p>안녕하세요! 백엔드 개발자가 되고싶은 yangchanyong 입니다!</p>
-  <p></p>
+  <p> </p>
   <p></p>
   <p></p>
   <br>
