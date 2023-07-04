@@ -6,11 +6,17 @@
   
   <h2>Project</h2>
 <h3 style="color:aqua">Team Project</h3>
- JALADIN 인터넷서점 <a href="https://github.com/yangchanyong/AWS_fullstack_mini_project">GitHub Link</a> <br>(JAVA CLI Project / 서점 관리 시스템)
+ JALADIN 인터넷서점 <a href="https://github.com/yangchanyong/AWS_fullstack_mini_project">GitHub Link</a> <br>
+ (JAVA CLI Project / 서점 관리 시스템)
+<br>
+<br>
+
+
 
 
 푸드得 <a href="https://github.com/yangchanyong/AWS_fullstack_semi_project">GitHub Link</a> <br>
-   (Spring Legacy Project를 활용하여 사용자의 상품 구매 시 필요한 전자상거래 구현)
+(Spring Legacy Project를 활용하여 사용자의 상품 구매 시 필요한 전자상거래 구현) <br>
+
 
 FireWorks <a href="https://github.com/OhHalfmoon/firework_back">GitHub Link</a> <br>
 (Spring Boot + Mustache를 활용한 그룹웨어)
@@ -20,6 +26,9 @@ FireWorks <a href="https://github.com/OhHalfmoon/firework_back">GitHub Link</a> 
 
 <h3 style="color:magenta">Personal Project</h3>
 Oring Vape <a href="https://github.com/yangchanyong/AWS_fullstack_Servlet_JSP_Assignment">GitHub Link</a> <br>(Servlet, JSP를 활용한 회원제 게시판)
+
+<br>
+<br>
 
 Todo-App <a href="https://github.com/yangchanyong/todo-react-app">GitHub Link</a> <br>
 (React.JS + Spring Boot를 활용한 Rest ful API / SPA 제작)
