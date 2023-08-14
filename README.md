@@ -70,8 +70,8 @@ Todo-App <a href="https://github.com/yangchanyong/todo-react-app">GitHub Link</a
 
 <h2>❤About Me</h2>  
 
-  <a href="https://c-uncle-full-stack.tistory.com/"><img src="https://img.shields.io/badge/BLOG-orange?style=flat&logo=tistory&logoColor=white"/></a>
-  <a href="mailto:cksdydsla93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flate&logo=Gmail&logoColor=white&link=mailto:cksdydsla93@gmail.com"/></a></p>
+  <a href="https://c-uncle-full-stack.tistory.com/"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=tistory&logoColor=white"/></a>
+  <a href="mailto:cksdydsla93@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flate&logo=Gmail&logoColor=white&link=mailto:cksdydsla93@gmail.com"/></a></p>
   
 <!-- stats -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yangchanyong&show_icons=true"> -->
