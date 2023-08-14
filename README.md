@@ -41,27 +41,32 @@ Todo-App <a href="https://github.com/yangchanyong/todo-react-app">GitHub Link</a
 
   
   <h2>🔥main skill</h2>
-      <img src="https://img.shields.io/badge/html5-E54C21?style=flat&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3-264DE4?style=flat&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/html5-E34C26?style=flat&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Java-white?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-68BD44?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/mariaDB-lightgray?style=flat&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-green?style=flat&logo=JPA&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/svn-819DCA?style=flat&logo=svn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/intelliJ-black?style=flat&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vscode-1D8DD4?style=flat&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/svn-809CC9?style=flat&logo=subversion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/intelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vscode-5C2D91?style=flat&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/sts-6DB43D?style=flat&logo=SpringToolSuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-A18570?style=flat&logo=DBeaver&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/AWS-262E3B?style=flat&logo=amazonwebservice&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/><br>
   <h4>🛠study</h4>
-    <img src="https://img.shields.io/badge/React-61DBFB?style=flat&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jquery-0868AB?style=flat&logo=jquery&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/oracleDB-ED1B24?style=flat&logo=oracle&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/docker-129FDB?style=flat&logo=docker&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/eclipse-2B2152?style=flat&logo=eclipse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/oracleDB-F80000?style=flat&logo=oracle&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
 
 <h2>❤About Me</h2>  
 
