@@ -5,6 +5,8 @@
   
   <h2>💪Introduction</h2>
   <h3>안녕하세요! 백엔드 개발자 Yang Chanyong 입니다!</h3>
+  
+    
   <a href="https://www.chanyongyang.com/" style="color: bisque; font-size: 20px"><b>Portfolio Link</b></a>
   <br>
   
@@ -60,12 +62,16 @@ Todo-App <a href="https://github.com/yangchanyong/todo-react-app">GitHub Link</a
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/><br>
   <h4>🛠study</h4>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/codeigniter-EF4223?style=flat&logo=codeigniter&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/oracleDB-F80000?style=flat&logo=oracle&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jenkins-black?style=flat&logo=jenkins&logoColor=D24939"/><br>
+    <img src="https://img.shields.io/badge/GitLab-black?style=flat&logo=GitLab&logoColor=FC6D26"/><br>
     <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
 
 <h2>❤About Me</h2>  
