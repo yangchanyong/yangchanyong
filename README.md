@@ -4,7 +4,9 @@
 
 
 <h2>💪Introduction</h2>
-<h3>안녕하세요! PHP Developer Yang Chanyong 입니다!</h3>
+<h3>안녕하세요! PHP Developer 양찬용 입니다!</h3>
+<br>
+<br>
 
 <h2>Career</h2>
 
@@ -15,7 +17,7 @@
 <p>Position : Employee</p>
 <details>
 <summary>Job description</summary>
-<div style="text-align: left">
+<div align="left"">
 
 <h4>e-learning PHP Developer</h4>
 
@@ -44,7 +46,7 @@
 <p>Position : COO</p>
 <details>
 <summary>Job description</summary>
-<div style="text-align: left">
+<div align="left">
 
 <h4>사업총괄</h4>
 
@@ -80,7 +82,7 @@
 <p>Position : CEO</p>
 <!-- <details>
 <summary>Job description</summary>
-<div style="text-align: left">
+<div style="align: left">
 
 <h4>사업총괄</h4>
 
@@ -112,11 +114,11 @@
   <!-- <a href="https://www.chanyongyang.com/" style="color: bisque; font-size: 20px"><b>Portfolio Link</b></a> */ -->
   <br>
 
-<h2>Project</h2>
+<h2>Toy Projects</h2>
 
 <details>
 
-<summary><h3 style="color:aqua; display:inline;">Team Project</h3></summary>
+<summary>Team Project</summary>
 JALADIN 인터넷서점 <a href="https://github.com/yangchanyong/AWS_fullstack_mini_project">GitHub Link</a> <br>
 (JAVA CLI Project / 서점 관리 시스템)
 <br>
@@ -133,7 +135,7 @@ FireWorks <a href="https://github.com/OhHalfmoon/firework_back">GitHub Link</a> 
 </details>
 
 <details>
-<summary><h3 style="color:magenta; display:inline">Personal Project</h3></summary>
+<summary>Personal Project</summary>
 Oring Vape <a href="https://github.com/yangchanyong/AWS_fullstack_Servlet_JSP_Assignment">GitHub Link</a> <br>(Servlet,
 JSP를 활용한 회원제 게시판)
 <br>
