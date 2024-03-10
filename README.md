@@ -12,7 +12,7 @@
 
 <h4> Dev </h4>
 <p>Company : careergate Corp.</p>
-<p>Period : 2023/04 ~ </p>
+<p>Period : 2023/12 ~ </p>
 <p>Location : Seoul, Korea<p>
 <p>Position : Employee</p>
 <details>
