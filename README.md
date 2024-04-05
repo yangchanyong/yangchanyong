@@ -36,7 +36,7 @@
 </details>
 <br>
 
-<h4> non-Dev </h4>
+<h4> Non-Dev </h4>
 
 
 
