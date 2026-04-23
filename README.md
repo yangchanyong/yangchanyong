@@ -84,22 +84,6 @@
             <li>체계적인 프라모델 재고 관리를 위한 API 서버 구축 및 CI/CD 파이프라인 연동</li>
         </ul>
     </li>
-    <li><b>Self-Hosted NAS & Home Lab</b>
-        <ul>
-            <li><b>Tech:</b> Proxmox, Xpenology, Docker</li>
-            <li>AI 연동 및 프라이빗 클라우드 서비스 테스트를 위한 자체 서버 환경(Intel i3 기반) 구축 및 운영</li>
-        </ul>
-    </li>
-    <li><b>Todo-App</b> <a href="https://github.com/yangchanyong/todo-react-app">[GitHub Link]</a>
-        <ul>
-            <li>React.JS와 Spring Boot를 활용한 RESTful API 기반 SPA 구현</li>
-        </ul>
-    </li>
-    <li><b>Oring Vape</b> <a href="https://github.com/yangchanyong/AWS_fullstack_Servlet_JSP_Assignment">[GitHub Link]</a>
-        <ul>
-            <li>Servlet, JSP를 활용한 회원제 게시판 구현</li>
-        </ul>
-    </li>
 </ul>
 </div>
 </details>
@@ -117,49 +101,35 @@
 
 <br>
 
-<h2>🔥 Tech Stack</h2>
+<h2>🔥 Core Tech Stack</h2>
+<p>서버 아키텍처 설계와 인프라 자동화에 주력하며, AI 에이전트를 적극 활용하여 개발 생산성을 극대화합니다.</p>
+
+<h4>AI-Assisted Development (Vibe Coding)</h4>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white"/>
 
 <h4>Backend</h4>
 <img src="https://img.shields.io/badge/Java-white?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/>
 <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/codeigniter-EF4223?style=flat&logo=codeigniter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
-
-<h4>Database</h4>
-<img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/oracleDB-F80000?style=flat&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white"/>
 
 <h4>DevOps & Infrastructure</h4>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-black?style=flat&logo=GitLab&logoColor=FC6D26"/>
-<img src="https://img.shields.io/badge/jenkins-black?style=flat&logo=jenkins&logoColor=D24939"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/svn-809CC9?style=flat&logo=subversion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI-black?style=flat&logo=GitLab&logoColor=FC6D26"/>
+<img src="https://img.shields.io/badge/Jenkins-black?style=flat&logo=jenkins&logoColor=D24939"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 
-<h4>Frontend</h4>
-<img src="https://img.shields.io/badge/html5-E34C26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=white"/>
-
-<h4>Tools</h4>
-<img src="https://img.shields.io/badge/intelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/vscode-5C2D91?style=flat&logo=VisualStudioCode&logoColor=white"/>
-<img src="https://img.shields.io/badge/sts-6DB43D?style=flat&logo=SpringToolSuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBeaver-A18570?style=flat&logo=DBeaver&logoColor=white"/>
-
+<h4>Database</h4>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 <br>
 <br>
+
+
 
 <h2>❤ Contact & Channel</h2>
 
