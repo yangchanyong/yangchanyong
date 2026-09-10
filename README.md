@@ -12,7 +12,7 @@ Legacy System Migration, API Integration, Database Optimization, AWS Infrastruct
 
 ## Experience
 
-### careergate Corp. — Backend Developer
+### MegaCareerLab Corp. — Backend Developer
 
 `2023.12 ~ Present · Seoul`
 
