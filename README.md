@@ -1,16 +1,18 @@
 # Yang Chan Yong
 
 **Backend Developer**
-Backend · Infrastructure · DevOps · AI Engineering
 
-서비스의 기능 구현에만 머무르지 않고, **배포와 운영까지 이어지는 Backend Engineering**에 관심을 가지고 있습니다.
-Legacy System Migration, API Integration, Database Optimization, AWS Infrastructure를 경험했으며, 개인 프로젝트 **ARK**를 통해 직접 개발 환경과 서비스를 구축·운영하고 있습니다.
+서비스의 기능 구현에만 머무르지 않고,
+**배포와 운영까지 고려하는 Backend Engineering**에 관심을 가지고 있습니다.
+
+Legacy System Migration, API Integration, Database Optimization, AWS Infrastructure를 경험했으며,
+개인 프로젝트 **ARK**를 통해 백엔드 서비스를 직접 개발·배포·운영하며 기술적 이해 범위를 넓혀가고 있습니다.
 
 ---
 
 ## Experience
 
-### MegaCareerLab Corp. — Backend Developer
+### careergate Corp. — Backend Developer
 
 `2023.12 ~ Present · Seoul`
 
@@ -26,33 +28,29 @@ Legacy System Migration, API Integration, Database Optimization, AWS Infrastruct
 
 ## 🚢 Project ARK
 
-### Private Cloud & Internal Developer Platform
+### Backend Service & Private Development Platform
 
-개인 서비스를 직접 개발하고 배포하기 위한 환경에서 시작해,
-현재는 **Backend · Infrastructure · CI/CD · Automation을 하나의 환경에서 직접 구축하고 운영하는 장기 Engineering Project**로 확장하고 있습니다.
+개인 백엔드 서비스를 직접 개발하고 배포하기 위한 환경에서 시작해,
+현재는 **서비스 개발 · 배포 · 운영을 직접 경험하기 위한 장기 프로젝트**로 확장하고 있습니다.
 
-**Platform**
+**Backend & Data**
 
-`Ubuntu Server` · `Docker` · `Nginx` · `PostgreSQL`
+`Spring Boot` · `PostgreSQL` · `REST API`
 
-**Developer Platform**
+**Runtime & Deployment**
 
-`GitLab Self-Managed` · `GitLab Runner` · `Docker Registry` · `CI/CD`
+`Ubuntu Server` · `Docker` · `Nginx` · `GitLab CI/CD`
 
-**Application**
+**Operations**
 
-`Spring Boot` · `Kakao Automation` · `Gateway Service`
-
-**Infrastructure & Operations**
-
-Reverse Proxy / TLS · Container Networking · Service Deployment · Recovery · Troubleshooting
+Reverse Proxy / TLS · Service Deployment · Recovery · Troubleshooting
 
 ### AEGIS
 
-AI Agent가 기존 코드와 Architecture를 이해하고 일관된 기준으로 작업할 수 있도록
-개발 규칙과 프로젝트 Context를 구조화하고 있습니다.
+AI Agent를 백엔드 개발에 활용할 때
+기존 코드와 프로젝트 구조를 안정적으로 이해하도록 개발 규칙과 Context를 관리하고 있습니다.
 
-`AI Agent Context` · `Coding Rules` · `Architecture Decisions` · `Guardrails`
+`Coding Rules` · `Project Context` · `Architecture Decisions` · `Guardrails`
 
 ---
 
@@ -61,17 +59,14 @@ AI Agent가 기존 코드와 Architecture를 이해하고 일관된 기준으로
 **Backend**
 Java · Spring Boot · Spring Security · JPA · PHP · CodeIgniter
 
-**Infrastructure**
-Linux · AWS · Docker · Nginx · GitLab · Jenkins
-
 **Database**
 PostgreSQL · MariaDB · Oracle
 
-**DevOps**
-GitLab CI/CD · GitLab Runner · GitHub Actions · Docker Registry
+**Backend Operations**
+Linux · AWS · Docker · Nginx · GitLab CI/CD · Jenkins · GitHub Actions
 
-**AI Engineering**
-Claude Code · Codex · Context Engineering · Harness Engineering
+**Development Tools**
+Claude Code · Codex
 
 ---
 
